@@ -1,4 +1,4 @@
-<code>🎓 Student: KPI / IП-04</code>
+<code>🎓 Student: KPI / IМ-42мп</code>
 <code>👷 Speciality: Software engineer</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧑‍💻 Languages: JavaScript, TypeScript, Kotlin</code><br>
